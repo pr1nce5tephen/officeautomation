@@ -1,2 +1,0 @@
-# officeautomation
-thesis
